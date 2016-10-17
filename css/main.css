@@ -12,6 +12,7 @@ html {
 img {
   display: inline-block;
   text-align: center;
+  margin: 1.5rem;
 }
 
 h1 {
@@ -20,6 +21,7 @@ h1 {
 
 div {
   text-align: left;
+
 }
 
 a {
@@ -28,10 +30,12 @@ a {
   text-align: center;
   text-decoration: none;
   padding: 1em;
+  border: 0.25em solid #000;
   border-radius: 1em;
 }
 
 a:hover {
   color:#fff;
   background-color:#a1a1a1;
+  border: 0.25em solid #a1a1a1;
 }
