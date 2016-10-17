@@ -8,3 +8,17 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+a {
+  display:;
+  color:#;
+  text-decoration: none;
+  padding:;
+  background-color: #;
+  border-radius: ;
+}
+
+a:hover {
+  color:#;
+  background-color:#;
+}
