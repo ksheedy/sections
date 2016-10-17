@@ -27,8 +27,8 @@ a {
   color: #000;
   text-align: center;
   text-decoration: none;
-  padding:;
-  border-radius: ;
+  padding: 1em;
+  border-radius: 1em;
 }
 
 a:hover {
