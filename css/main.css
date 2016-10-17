@@ -14,7 +14,7 @@ body {
 }
 
 img {
-  display: inline;
+  display: block;
   text-align: center;
   margin: 1.5rem;
 }
