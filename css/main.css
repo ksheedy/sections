@@ -10,16 +10,22 @@ html {
 }
 
 img {
-  display: block;
+  display: inline-block;
+  text-align: center;
 }
 
 h1 {
   display: block;
 }
 
+div {
+  text-align: left;
+}
+
 a {
-  display:;
+  display:inline-block;
   color: #000;
+  text-align: center;
   text-decoration: none;
   padding:;
   border-radius: ;
