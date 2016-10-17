@@ -15,7 +15,6 @@ body {
 
 img {
   display: block;
-  text-align: center;
   margin: 1.5rem;
   width: 100%;
 }
@@ -35,12 +34,12 @@ a {
   text-align: center;
   text-decoration: none;
   padding: 1em;
-  border: 0.25em solid #000;
+  border: 0.25em solid #333;
   border-radius: 1em;
 }
 
 a:hover {
   color:#fff;
-  background-color:#a1a1a1;
-  border: 0.25em solid #a1a1a1;
+  background-color:#666;
+  border: 0.25em solid #666;
 }
