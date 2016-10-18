@@ -16,11 +16,15 @@ body {
 
 section {
   display: inline-block;
-  max-width: 25rem;
   width: 100%;
   padding: 1em;
   /*vertical-align: middle;*/
   /*margin: 1.5rem 0;*/
+}
+
+div {
+  display: inline;
+  max-width: 25em;
 }
 
 img {
