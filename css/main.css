@@ -17,7 +17,7 @@ body {
 section {
   display: inline-block;
   margin: 1.5rem;
-  width: 25rem;
+  max-width: 25rem;
 }
 
 img {
@@ -27,8 +27,8 @@ img {
 
 h2 {
   display: inline-block;
-  max-width: 25em;
   text-align: left;
+  width: 25em;
 }
 
 p {
@@ -40,9 +40,9 @@ p {
 .btn {
   display: inline-block;
   text-align: left;
-  max-width: 25em;
-
+  width: 25em;
 }
+
 /*
 a {
   display:inline-block;
