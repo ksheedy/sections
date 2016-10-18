@@ -19,11 +19,12 @@ section {
   max-width: 25rem;
   width: 100%;
   padding: 1em;
+  vertical-align: middle;
   /*margin: 1.5rem 0;*/
 }
 
 img {
-  display: inline-block;
+  display: block;
   max-width: 25em;
   width: 100%;
   margin: 1.5rem 0 1.5rem;
