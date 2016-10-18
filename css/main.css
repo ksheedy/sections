@@ -17,8 +17,8 @@ body {
 section {
   display: inline-block;
   width: 100%;
-  padding: 1em;
-  /*vertical-align: middle;*/
+  /*padding: 1em;*/
+  vertical-align: middle;
   /*margin: 1.5rem 0;*/
 }
 
@@ -31,14 +31,14 @@ img {
   display: block;
   max-width: 25em;
   width: 100%;
-  margin: 1.5rem 0 1.5rem;
+  /*margin: 1.5rem 0 1.5rem;*/
 }
 
 h2 {
   display: inline-block;
   text-align: left;
   width: 25em;
-  margin: 1.5rem 0 1.5rem 0;
+  /*margin: 1.5rem 0 1.5rem 0;*/
   /*padding: 1em 0 1em 0;*/
 }
 
@@ -51,11 +51,9 @@ p {
 .btn {
   display: inline-block;
   text-align: left;
-  width: 25em;
 
 }
 
-/*
 a {
   display:inline-block;
   color: #000;
@@ -71,4 +69,3 @@ a:hover {
   background-color:#666;
   border: 0.25em solid #666;
 }
-*/
