@@ -17,7 +17,6 @@ body {
 section {
   display: inline-block;
   width: 100%;
-  vertical-align: middle;
   margin: 1.5rem 0;
 }
 
@@ -26,6 +25,7 @@ div {
   max-width: 25em;
   margin: 0 1.5rem 0 1.5rem;
   text-align: left;
+  vertical-align: middle;
 }
 
 img {
@@ -47,6 +47,7 @@ p {
   display: inline-block;
   max-width: 25em;
   text-align: left;
+  width: 100%;
 }
 
 .btn {
