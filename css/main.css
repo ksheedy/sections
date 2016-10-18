@@ -18,7 +18,7 @@ section {
   display: inline-block;
   width: 100%;
   vertical-align: middle;
-  margin: 0;
+  margin: 1.5rem 0;
 }
 
 div {
@@ -63,6 +63,7 @@ a {
   padding: 0.4em 0.75em 0.5em;
   border: 0.25em solid #333;
   border-radius: 0.5em;
+  margin: 1.5rem 0;
 }
 
 a:hover {
