@@ -15,16 +15,26 @@ body {
 
 img {
   display: block;
+  max-width: 25em;
+}
+
+section {
   margin: 1.5rem;
-  width: 100%;
 }
 
 h1 {
   display: block;
+  max-width: 25em;
+}
+
+p {
+  display: block;
+  max-width: 25em;
 }
 
 .btn {
   text-align: left;
+  max-width: 25em;
 
 }
 
