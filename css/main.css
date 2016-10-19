@@ -26,11 +26,11 @@ div {
   margin: 0 1.5rem;
   text-align: left;
   vertical-align: middle;
+  width: 100%;
 }
 
 img {
   display: block;
-  max-width: 25em;
   width: 100%;
   padding: 2em 0;
 }
@@ -38,7 +38,7 @@ img {
 h2 {
   display: inline-block;
   text-align: left;
-  width: 25em;
+  max-width: 25em;
   margin: 0;
   padding: 0;
 }
@@ -46,6 +46,7 @@ h2 {
 p {
   display: inline-block;
   text-align: left;
+  max-width: 25em;
   width: 100%;
 }
 
